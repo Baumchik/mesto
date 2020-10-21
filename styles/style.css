@@ -102,8 +102,7 @@ width: 300px;
 @media screen and (max-width: 1000px){
 
     .page_image{
-        height:100%;
-       width: 100%;
+     
     }
 }
 
